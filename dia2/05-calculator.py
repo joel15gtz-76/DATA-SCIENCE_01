@@ -19,3 +19,4 @@ while True:
 
 
    #print(f"El resultado es: {resultado}")
+   #la venmtaja de while es que permite repetir el proceso sin reiniciar el programa
